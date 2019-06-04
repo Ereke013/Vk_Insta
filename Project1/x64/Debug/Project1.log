@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\database.h(89): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\database.h(108): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\database.h(136): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\database.h(147): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\website.h(23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\website.h(143): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\instagram.h(136): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\talgat pc\desktop\ерлан\university\programming technologies\новая папка\project1\project1\vkontakte.h(137): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Project1.vcxproj -> C:\Users\TALGAT PC\Desktop\Ерлан\University\Programming Technologies\Новая папка\Project1\x64\Debug\Project1.exe

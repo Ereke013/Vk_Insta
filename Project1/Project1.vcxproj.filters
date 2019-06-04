@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\INST">
+      <UniqueIdentifier>{ac21473d-28bb-4d45-94d8-01d47753659d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Avatar">
+      <UniqueIdentifier>{d6e77c8c-476c-4487-9963-44fc8ad834fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\VK">
+      <UniqueIdentifier>{da833a19-1909-454a-b501-4781d322dc21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WebSite.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="VKontakte.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Instagram.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="DataBase.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Post.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Comment.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Friends.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Like.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="FriendsINST.txt">
+      <Filter>Файлы заголовков\INST</Filter>
+    </Text>
+    <Text Include="CommentsINST.txt">
+      <Filter>Файлы заголовков\INST</Filter>
+    </Text>
+    <Text Include="PostsINST.txt">
+      <Filter>Файлы заголовков\INST</Filter>
+    </Text>
+    <Text Include="UsersINST.txt">
+      <Filter>Файлы заголовков\INST</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_olen.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_mercedes.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_kenguru.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_kobelek.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_koyan.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_pokemon.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_ptichka.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="AVATARS\Avatar_WV.txt">
+      <Filter>Файлы заголовков\Avatar</Filter>
+    </Text>
+    <Text Include="CommentsVK.txt">
+      <Filter>Файлы заголовков\VK</Filter>
+    </Text>
+    <Text Include="FriendsVK.txt">
+      <Filter>Файлы заголовков\VK</Filter>
+    </Text>
+    <Text Include="PostsVK.txt">
+      <Filter>Файлы заголовков\VK</Filter>
+    </Text>
+    <Text Include="UsersVK.txt">
+      <Filter>Файлы заголовков\VK</Filter>
+    </Text>
+    <Text Include="LikeINST.txt">
+      <Filter>Файлы заголовков\INST</Filter>
+    </Text>
+    <Text Include="LikeVK.txt">
+      <Filter>Файлы заголовков\VK</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

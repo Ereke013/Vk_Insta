@@ -1,0 +1,24 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project1\project1\database.h(10): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(177): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(192): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(196): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(209): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(213): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(226): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(230): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(235): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(239): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\database.h(244): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(120): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(129): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(170): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(179): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(195): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\website.h(202): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\instagram.h(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\instagram.h(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\vkontakte.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project1\project1\vkontakte.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\User\source\repos\Project1\Debug\Project1.exe

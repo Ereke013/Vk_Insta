@@ -1,0 +1,7 @@
+0 0 0 Wed Jul 8 11:16:22 2019 'WOW'
+0 0 2 Thu Jun 6 12:14:30 2018 'OMG'
+2 2 4 Mon Aug 4 09:54:45 2018 'Good'
+3 1 2 Wed Jan 6 20:35:12 2018 'Yes, of course, i can my father'
+4 1 0 Sun Mar 7 23:15:34 2019 'eeeeei kop soileme'
+5 2 0 Thu Oct 9 13:10:46 2018 'I miss you'
+6 0 0 Fri Dec 31 23:59:59 2018 'KurttinGOtagy'
